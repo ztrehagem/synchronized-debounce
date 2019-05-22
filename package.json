@@ -1,6 +1,6 @@
 {
   "name": "@ztrehagem/synchronized-debounce",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "debounce your async functions with synchronizing",
   "publishConfig": {
     "access": "public"
