@@ -10,7 +10,7 @@
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
-    "clean": "rm -r dist",
+    "clean": "rm -r dist || true",
     "example": "node example.js",
     "prepare": "npm run clean && npm run build"
   },
